@@ -1,0 +1,19 @@
+# AI automation tool
+
+challenge
+
+## Business Model
+B2B SaaS | $99-499/mo
+
+## Getting Started
+```bash
+npm install
+npm run dev
+```
+
+## Progress
+- [x] Initial MVP
+- [ ] User authentication
+- [ ] Core feature
+- [ ] Payment integration
+- [ ] Production deployment
